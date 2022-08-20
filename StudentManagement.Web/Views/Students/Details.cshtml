@@ -1,0 +1,39 @@
+﻿@model StudentManagement.Dtos.StudentDtos.StudentResponseDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FullName)</br>
+            @Model.FullName
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FavouriteQuote)</br>
+            @Model.FavouriteQuote
+        </dt>
+         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedDate)</br>
+            @Model.CreatedDate
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LastUpdatedDate)</br>
+            @Model.LastUpdatedDate
+        </dt>  
+           
+    </dl>
+</div>
+<div>
+ @*   @
+ 
+          <a asp-action="Edit" asp-route-id="@model.Id">Edit</a> |*@
+            <a asp-action="Index">Back to List</a> 
+    
+ 
+</div>

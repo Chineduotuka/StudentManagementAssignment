@@ -1,0 +1,24 @@
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\StudentManagement.Models.deps.json
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\StudentManagement.Models.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\ref\StudentManagement.Models.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\StudentManagement.Models.pdb
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.csproj.AssemblyReference.cache
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.AssemblyInfoInputs.cache
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.AssemblyInfo.cs
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\ref\StudentManagement.Models.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.pdb
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\StudentManagement.Models.deps.json
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\StudentManagement.Models.dll
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\bin\Debug\net5.0\StudentManagement.Models.pdb
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.dll
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\refint\StudentManagement.Models.dll
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\StudentManagement.Models.pdb
+C:\Users\solan\OneDrive\Desktop\obia's class project\StudentManagement (1)\StudentManagement\StudentManagement.Models\obj\Debug\net5.0\ref\StudentManagement.Models.dll

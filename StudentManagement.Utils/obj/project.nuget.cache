@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SHyxm5jmzbJpo9HZR9mRdEjiUKgLcE0ofOeNHz6BE+KP6ZdKH4GvJ4vHjpnniEKfy3EXMYzWVp25hy11r3z3iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solan\\OneDrive\\Desktop\\obia's class project\\StudentManagement (1)\\StudentManagement\\StudentManagement.Utils\\StudentManagement.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solan\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
